@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1001,
+    "sku": 8552515751438644,
+    "title": "T-Shirt Sockenwunder",
+    "description": "Ein stilvolles T-Shirt aus 100% Bio-Baumwolle.",
+    "availableSizes": ["S", "M", "L", "XL"],
+    "style": "Klassischer Rundhals",
+    "price": 10.99,
+    "installments": 3,
+    "currencyId": "EUR",
+    "currencyFormat": "€",
+    "isFreeShipping": true
+  },
+  {
+    "id": 1002,
+    "sku": 18644119330491703,
+    "title": "Hemd Nachtschicht",
+    "description": "Dunkelblaues Hemd, ideal für lange Nächte.",
+    "availableSizes": ["M", "L"],
+    "style": "Slim Fit",
+    "price": 25.0,
+    "installments": 5,
+    "currencyId": "EUR",
+    "currencyFormat": "€",
+    "isFreeShipping": false
+  },
+  {
+    "id": 1003,
+    "sku": 1060939330491703,
+    "title": "Pullover Herbstlaub",
+    "description": "Warmer Strickpullover in herbstlichen Farben.",
+    "availableSizes": ["S", "L", "XL"],
+    "style": "Grober Strick",
+    "price": 45.5,
+    "installments": 2,
+    "currencyId": "EUR",
+    "currencyFormat": "€",
+    "isFreeShipping": true
+  },
+  {
+    "id": 1004,
+    "sku": 31060939330491703,
+    "title": "Hose Abenteuer",
+    "description": "Robuste Cargo-Hose für jedes Gelände.",
+    "availableSizes": ["M", "L", "XL"],
+    "style": "Regular Fit",
+    "price": 60.0,
+    "installments": 4,
+    "currencyId": "EUR",
+    "currencyFormat": "€",
+    "isFreeShipping": false
+  }
+]
